@@ -2,7 +2,10 @@
 Este projeto é um menu digital para um restaurante italiano, desenvolvido com um design moderno e minimalista.
 
 🚀 Status do Projeto
+
 ✅ Funcionalidades Finalizadas
+
+
 ✔️ Design & Layout: Estrutura de navegação fina, layout responsivo e estilização completa com CSS moderno.
 
 ✔️ Vitrine de Pratos: Exibição organizada dos itens em grade, com hover effects e animações de zoom nas fotos.
@@ -12,6 +15,8 @@ Este projeto é um menu digital para um restaurante italiano, desenvolvido com u
 ✔️ Organização clara de seções (Entradas, Massas, Sobremesas) com divisores decorativos.
 
 🚧 Funcionalidades Pendentes (Para o futuro)
+
+
 [ ] Sistema de Pedidos: Adicionar funcionalidade para selecionar pratos e enviar o pedido via WhatsApp ou e-mail.
 
 [ ] Filtros de Menu: Implementar filtros por categoria (Ex: Vegetarianos, Opções sem Glúten).
